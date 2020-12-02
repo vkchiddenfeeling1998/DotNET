@@ -48,10 +48,7 @@ namespace Assignment1
             private int empno;
             public int EmpNo
             {
-                set
-                {
-                    empno = value;
-                }
+     
                 get 
                 {
                     return empno;
